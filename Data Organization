@@ -1,0 +1,26 @@
+1. Demographics & Socioeconomic Data
+Population: Total population size.
+Population Growth Rate: Annual growth rate of the population.
+Immigration Rate: Rate of immigration, as it influences population dynamics.
+Population of Home Owners: Number of homeowners, indicating market size.
+Income of Home Owners: Average or median income, reflecting purchasing power.
+Median Income: General income levels in the area, influencing affordability.
+2. Economic Indicators
+Mortgage Rate: Average mortgage interest rate, directly affecting housing affordability.
+Interest Rate: General interest rates set by central banks, impacting borrowing costs.
+GDP Growth Rate: Economic growth, a broader indicator of economic health.
+Inflation Rate: Changes in price levels, influencing purchasing power and real estate prices.
+Employment Rate: Employment levels, crucial for assessing economic stability and income security.
+3. Real Estate Market Data
+Housing Development Rate: Rate of new housing construction, indicating supply changes.
+Median House Value: Median price of homes, a key output variable for prediction.
+One Storey Benchmark (SA): Standardized average price for one-storey homes.
+Two Storey Benchmark (SA): Standardized average price for two-storey homes.
+Townhouse Benchmark (SA): Standardized average price for townhouses.
+Apartment Benchmark (SA): Standardized average price for apartments.
+Ocean Proximity: A categorical variable indicating proximity to the ocean, affecting property desirability and value.
+Verification & Justification:
+Demographics & Socioeconomic Data: These variables are essential to understand the demand side of the housing market. They provide insight into the potential buyer population and their economic status.
+Economic Indicators: These factors influence the overall economic environment, affecting both the ability to buy homes and the attractiveness of real estate investments.
+Real Estate Market Data: Directly related to the housing market, these variables are crucial for understanding supply, demand, and price trends.
+By separating the data into these categories, the model can be trained to identify patterns and relationships between various factors and housing market trends. This structure ensures that the model considers both macroeconomic conditions and specific real estate market dynamics, providing a comprehensive analysis for predicting housing prices.
